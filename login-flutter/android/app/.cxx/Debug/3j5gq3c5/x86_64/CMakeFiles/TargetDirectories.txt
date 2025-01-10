@@ -1,0 +1,2 @@
+C:/Users/erwan/login_app_plus/android/app/.cxx/Debug/3j5gq3c5/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/erwan/login_app_plus/android/app/.cxx/Debug/3j5gq3c5/x86_64/CMakeFiles/rebuild_cache.dir
